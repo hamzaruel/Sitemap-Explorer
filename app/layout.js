@@ -2,7 +2,7 @@ import './globals.css'
 
 export const metadata = {
   title: 'Sitemap Explorer',
-  description: 'A simple template with App Router, MongoDB, and shadcn/ui',
+  description: 'A simple Sitemap Explorer with App Router, MongoDB, and shadcn/ui',
 }
 
 export default function RootLayout({ children }) {
